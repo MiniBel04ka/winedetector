@@ -32,7 +32,7 @@ int main() {
 "             / -  ..---    '''''   ---...  _ \\" << std::endl << 
 "             \\  _____  ..--   --..     ____  /" << std::endl << 
 "              '-----....._________.....-----'" << std::endl <<
-"    WINEDETECTOR                V0.1.0       " << std::endl;
+"    хуйня                V0.1.0       " << std::endl;
 
     Logger logger;
     Detector detector;
